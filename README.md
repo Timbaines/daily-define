@@ -63,7 +63,7 @@ Follow these steps to set up the project on your local machine:
 Ensure you have the following tools installed:
 - [Node.js](https://nodejs.org/) (version 16 or higher)
 - [npm](https://www.npmjs.com/) (Node package manager, comes with Node.js)
-- A code editor, preferably [VS Code](https://code.visualstudio.com/)
+- IDE [Webstorm](https://www.jetbrains.com/webstorm/)
 
 ---
 
