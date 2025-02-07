@@ -36,7 +36,7 @@ export const Heading = ({ audioUrl, word, phonetic }) => {
                     className="bg-white dark:bg-foreground h-14 w-14 md:h-16 md:w-16 lg:h-20 lg:w-20 rounded-full flex items-center justify-center shadow-lg"
                 >
                     {/* Use the Play icon from Lucide */}
-                    <Play size={28} className="text-black dark:text-white" />
+                    <Play size={28} className="text-black dark:text-dark" />
                 </button>
             ) : (
                 <div className="bg-white dark:bg-foreground h-14 w-14 md:h-16 md:w-16 lg:h-20 lg:w-20 rounded-full flex items-center justify-center shadow-lg">
