@@ -20,8 +20,10 @@ const Content = ({ partOfSpeech, definitions, synonyms, }) => {
                     <div className="flex flex-wrap">
                         {synonyms.map((synonym, index) => (
                             <span key={index} className="mx-0.5 dark:text-white">
-                                {synonym}
+                                {synonym}{index !== synonyms.length - 1 && ','}
+
                             </span>
+
                         ))}
                     </div>
                 </div>
