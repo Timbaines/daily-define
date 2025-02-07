@@ -214,10 +214,10 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Screenshots
 
-### **Landing Page**
-![Landing Page Screenshot](https://via.placeholder.com/800x400?text=Landing+Page)
+### **Landing Page & Search Result | Light Mode**
+![Landing Page Screenshot](public/screenshot-light.png)
 
-### **Search Results**
-![Results Page Screenshot](https://via.placeholder.com/800x400?text=Search+Results)
+### **Landing Page & Search Result | Dark Mode**
+![Results Page Screenshot](public/screenshot-dark.png)
 
 ---
